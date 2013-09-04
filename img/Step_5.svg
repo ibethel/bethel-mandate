@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="200px" height="200px" viewBox="273.757 41.61 200 200"
+	 overflow="visible" enable-background="new 273.757 41.61 200 200" xml:space="preserve">
+<defs>
+</defs>
+<circle fill="#969696" cx="374.663" cy="142.749" r="91.5"/>
+<path fill="#333333" d="M437.248,171.222c0,2.943-2.387,5.33-5.331,5.33h-115.71c-2.944,0-5.331-2.387-5.331-5.33V97.384
+	c0-2.944,2.387-5.331,5.331-5.331h115.71c2.944,0,5.331,2.387,5.331,5.331V171.222z"/>
+<path fill="#FAFBFB" d="M432.27,154.562c0,2.991-2.426,5.419-5.419,5.419H321.271c-2.993,0-5.419-2.428-5.419-5.419v-52.237
+	c0-2.991,2.426-5.418,5.419-5.418h105.579c2.994,0,5.419,2.427,5.419,5.418V154.562z"/>
+<circle fill="#FAFBFB" cx="374.061" cy="168.315" r="3.357"/>
+<path fill="#333333" d="M399.758,197.775l-7.708-4.343v-13.19h-35.48v12.909l-8.208,4.624c0,0-1.864,0.995-1.864,3.357h10.07
+	l0.001-0.01v0.01h34.981h0.499h9.574C401.623,198.771,399.758,197.775,399.758,197.775z"/>
+<rect x="340.883" y="123.585" fill="#969696" width="81.804" height="4.052"/>
+<rect x="326.619" y="107.289" fill="#969696" width="14.264" height="4.051"/>
+<rect x="326.619" y="132.686" fill="#E6E6E6" width="96.067" height="27.108"/>
+<rect x="326.619" y="147.229" fill="#D5C53B" width="96.067" height="12.564"/>
+<rect x="326.619" y="123.586" fill="#E6E6E6" width="14.264" height="4.051"/>
+<g>
+	<defs>
+		<circle id="SVGID_2_" cx="156.667" cy="142.749" r="91.5"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_2_"  overflow="visible"/>
+	</clipPath>
+	<rect x="100.181" y="40.663" clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="289" height="41.31"/>
+	<rect clip-path="url(#SVGID_4_)" fill="#969696" width="489.362" height="261.17"/>
+	<rect x="100.181" y="87.427" clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="289" height="41.311"/>
+	<rect x="100.181" y="40.663" clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="289" height="41.31"/>
+	<rect x="100.181" y="134.193" clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="289" height="41.312"/>
+	<rect x="100.181" y="180.957" clip-path="url(#SVGID_4_)" fill="#D5C53B" width="289" height="41.312"/>
+	<g clip-path="url(#SVGID_4_)">
+		<rect x="105.188" y="57.756" fill="none" width="164.868" height="169.079"/>
+		<text transform="matrix(1 0 0 1 105.188 65.3555)"><tspan x="0" y="0" fill="#333333" font-family="'OpenSans-Semibold'" font-size="10">Bank accounts</tspan><tspan x="0" y="46.5" fill="#333333" font-family="'OpenSans-Semibold'" font-size="10">Debit and credit cards</tspan><tspan x="0" y="93" fill="#333333" font-family="'OpenSans-Semibold'" font-size="10">PayPal balance</tspan><tspan x="0" y="139.5" fill="#FFFFFF" font-family="'OpenSans-Extrabold'" font-size="10">My preapproved payments</tspan></text>
+	</g>
+</g>
+</svg>

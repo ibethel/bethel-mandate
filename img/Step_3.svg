@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="200px" height="200px" viewBox="6.732 41.61 200 200"
+	 overflow="visible" enable-background="new 6.732 41.61 200 200" xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<defs>
+		<circle id="SVGID_4_" cx="327.619" cy="142.749" r="91.5"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_4_"  overflow="visible"/>
+	</clipPath>
+	<rect x="271.134" y="40.663" clip-path="url(#SVGID_6_)" fill="#FFFFFF" width="289" height="41.31"/>
+	<rect x="170.953" clip-path="url(#SVGID_6_)" fill="#969696" width="489.362" height="261.17"/>
+	<rect x="271.134" y="87.427" clip-path="url(#SVGID_6_)" fill="#FFFFFF" width="289" height="41.311"/>
+	<rect x="271.134" y="40.663" clip-path="url(#SVGID_6_)" fill="#FFFFFF" width="289" height="41.31"/>
+	<rect x="271.134" y="134.193" clip-path="url(#SVGID_6_)" fill="#FFFFFF" width="289" height="41.312"/>
+	<rect x="271.134" y="180.957" clip-path="url(#SVGID_6_)" fill="#D5C53B" width="289" height="41.312"/>
+	<g clip-path="url(#SVGID_6_)">
+		<rect x="276.141" y="57.756" fill="none" width="164.868" height="169.079"/>
+		<text transform="matrix(1 0 0 1 276.1406 65.3555)"><tspan x="0" y="0" fill="#333333" font-family="'OpenSans-Semibold'" font-size="10">Bank accounts</tspan><tspan x="0" y="46.5" fill="#333333" font-family="'OpenSans-Semibold'" font-size="10">Debit and credit cards</tspan><tspan x="0" y="93" fill="#333333" font-family="'OpenSans-Semibold'" font-size="10">PayPal balance</tspan><tspan x="0" y="139.5" fill="#FFFFFF" font-family="'OpenSans-Extrabold'" font-size="10">My preapproved payments</tspan></text>
+	</g>
+</g>
+<g>
+	<defs>
+		<circle id="SVGID_2_" cx="107.638" cy="142.749" r="91.5"/>
+	</defs>
+	<clipPath id="SVGID_7_">
+		<use xlink:href="#SVGID_2_"  overflow="visible"/>
+	</clipPath>
+	<circle clip-path="url(#SVGID_7_)" fill="#969696" cx="107.638" cy="142.749" r="91.5"/>
+	<rect x="50.944" y="100.267" clip-path="url(#SVGID_7_)" fill="#E6E6E6" width="117.743" height="149.454"/>
+	<rect y="74.972" clip-path="url(#SVGID_7_)" fill="#FAFBFB" width="219.632" height="25.972"/>
+	<rect x="50.944" y="162.5" clip-path="url(#SVGID_7_)" fill="#D5C53B" width="117.743" height="13.365"/>
+	<g clip-path="url(#SVGID_7_)">
+		<rect x="59.361" y="109.094" fill="none" width="114.271" height="127.616"/>
+		<text transform="matrix(1 0 0 1 59.3599 115.1748)"><tspan x="0" y="0" fill="#333333" font-family="'OpenSans-Semibold'" font-size="8">–Update Email</tspan><tspan x="0" y="14.262" fill="#333333" font-family="'OpenSans-Semibold'" font-size="8">–Update Password</tspan><tspan x="0" y="28.521" fill="#333333" font-family="'OpenSans-Semibold'" font-size="8">–Update Street Address</tspan><tspan x="0" y="42.783" fill="#333333" font-family="'OpenSans-Semibold'" font-size="8">–Update Phone Number</tspan><tspan x="0" y="57.043" fill="#FFFFFF" font-family="'OpenSans-Semibold'" font-size="8">My Money</tspan><tspan x="0" y="71.305" fill="#333333" font-family="'OpenSans-Semibold'" font-size="8">–Update Bank Account</tspan><tspan x="0" y="85.566" fill="#333333" font-family="'OpenSans-Semibold'" font-size="8">–Update Card</tspan><tspan x="0" y="99.826" fill="#333333" font-family="'OpenSans-Semibold'" font-size="8">My Settings</tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_7_)">
+		<rect x="59.361" y="83.237" fill="none" width="114.271" height="15.679"/>
+		
+			<text transform="matrix(1 0 0 1 59.3608 91.5977)" fill="#333333" font-family="'OpenSans-Semibold'" font-size="11" text-decoration=" underline">Profile</text>
+	</g>
+</g>
+</svg>

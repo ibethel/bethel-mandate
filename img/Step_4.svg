@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="200px" height="200px" viewBox="56.268 41.61 200 200"
+	 overflow="visible" enable-background="new 56.268 41.61 200 200" xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<defs>
+		<circle id="SVGID_2_" cx="156.667" cy="142.749" r="91.5"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_2_"  overflow="visible"/>
+	</clipPath>
+	<rect x="100.181" y="40.663" clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="289" height="41.31"/>
+	<rect clip-path="url(#SVGID_4_)" fill="#969696" width="489.362" height="261.17"/>
+	<rect x="100.181" y="87.427" clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="289" height="41.311"/>
+	<rect x="100.181" y="40.663" clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="289" height="41.31"/>
+	<rect x="100.181" y="134.193" clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="289" height="41.312"/>
+	<rect x="100.181" y="180.957" clip-path="url(#SVGID_4_)" fill="#D5C53B" width="289" height="41.312"/>
+	<g clip-path="url(#SVGID_4_)">
+		<rect x="105.188" y="57.756" fill="none" width="164.868" height="169.079"/>
+		<text transform="matrix(1 0 0 1 105.188 65.3555)"><tspan x="0" y="0" fill="#333333" font-family="'OpenSans-Semibold'" font-size="10">Bank accounts</tspan><tspan x="0" y="46.5" fill="#333333" font-family="'OpenSans-Semibold'" font-size="10">Debit and credit cards</tspan><tspan x="0" y="93" fill="#333333" font-family="'OpenSans-Semibold'" font-size="10">PayPal balance</tspan><tspan x="0" y="139.5" fill="#FFFFFF" font-family="'OpenSans-Extrabold'" font-size="10">My preapproved payments</tspan></text>
+	</g>
+</g>
+</svg>

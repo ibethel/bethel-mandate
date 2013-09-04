@@ -1,0 +1,84 @@
+!!!
+%html{:lang => "en"}
+  %head
+    %meta{:charset => "utf-8"}/
+    %title The Expansion Mandate
+    %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}/
+    / Le styles
+    %link{:href => "css/bootstrap.min.css", :rel => "stylesheet"}/
+    %link{:href => "css/bootstrap-responsive.min.css", :rel => "stylesheet"}/
+    %link{:href => "css/styles.css", :rel => "stylesheet"}/
+    / Le HTML5 shim, for IE6-8 support of HTML5 elements
+    /[if lt IE 9]
+      <script src="/js/html5shiv.js"></script>
+
+%body{"data-spy" => "scroll", "data-target" => ".bs-docs-sidebar"}
+  .wrapper
+    .header
+      .hidden-phone
+        %img(src="img/mandate-banner.png")
+      .visible-phone
+        %img(src="img/mandate-banner-mobile.png")
+    .gradient
+    .container
+      .row-fluid
+        .span12
+          %h1 You can now give at iBethel.org!
+          .line
+          %h2 Visit Give.iBethel.org to Make Donations
+          .span8
+            Our new site allows you to give directly through iBethel.org. Whether you want to make a one time donation or give regularly, you can now go directly to our site to make a new donation.
+          %a.span4.left.btn{:href => "http://give.ibethel.org", :target => "blank"} GIVE NOW
+          .line
+          %h2 How to Cancel your PayPal Account
+          .span8
+            If you already give regularly online through your 
+            %a{:href => "http://paypal.com", :target => "blank"} PayPal account
+            , you can follow these steps to cancel your giving and switch to our new site. 
+          .steps
+            .span4.left
+              %h3 STEP 1
+              %img(src="img/Step_1.svg")
+              Log into your PayPal account.
+            .span4
+              %h3 STEP 2
+              %img(src="img/Step_2.svg")
+              Click 
+              %em Profie
+              in the center menu.
+            .span4
+              %h3 STEP 3
+              %img(src="img/Step_3.svg")
+              Click 
+              %em My Money.
+            .span4.left
+              %h3 STEP 4
+              %img(src="img/Step_4.svg")
+              Click 
+              %em Update 
+              in the My Preapproved Payments section.
+            .span4
+              %h3 STEP 5
+              %img(src="img/Step_5.svg")
+              Click 
+              %em Cancel, Cancel Automatic Billing, 
+              or 
+              %em Cancel Subscription 
+              and follow the instructions.
+            .span4
+              %h3 STEP 6
+              %img(src="img/Step_6.svg")
+              Go to 
+              %em Give.iBethel.org 
+              to make new payments.
+    .footer
+      .gradientLight
+      .row-fluid
+        .span10
+          %img(src="img/mandate-logo.png")
+        .span2
+          .title BETHEL CHURCH
+          .address 933 College View RD. Redding, CA 96003
+
+
+
